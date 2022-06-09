@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"com.best_time_to_buy_and_sell","l":"BuyingAndSellingOfStocks"}]
